@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Kongkon</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kongkon Biswas</h1>
+
+<h1 align="center"><a href="#"><img width="200" height="200" src="https://i.imgur.com/799y5A3.png"/></a></h1>
+
+## 🙋‍♂️ About Me
+
+I'm a passionate Full Stack Web and I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends :)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kongkonbiswas&label=Profile%20views&color=0e75b6&style=flat" alt="kongkonbiswas" /> </p>
 
@@ -24,5 +29,16 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kongkonbiswas&show_icons=true&locale=en&layout=compact" alt="kongkonbiswas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kongkonbiswas&show_icons=true&locale=en" alt="kongkonbiswas" /></p>
+
+<br/>
+<br/>
+
+
+[![Kongkon's github activity graph](https://activity-graph.herokuapp.com/graph?username=kongkonbiswas&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<br/>
+<br/>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kongkonbiswas&" alt="kongkonbiswas" /></p>
