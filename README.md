@@ -2,9 +2,9 @@
 
 <h1 align="center"><a href="#"><img width="200" height="200" src="https://i.imgur.com/799y5A3.png"/></a></h1>
 
-<p align='center'><strong> #### Web & App both design and development.</strong> </p>
+<h3 align='center'><strong>Web & App both design and development.</strong> </h3>
 
-<p align="left"> <img width="400" src="https://komarev.com/ghpvc/?username=kongkonbiswas&label=Profile%20views&color=0e75b6&style=flat" alt="kongkonbiswas" /> </p>
+<p align="left"> <img width="200" src="https://komarev.com/ghpvc/?username=kongkonbiswas&label=Profile%20views&color=0e75b6&style=flat" alt="kongkonbiswas" /> </p>
 
 ## 🙋‍♂️ About Me
 
