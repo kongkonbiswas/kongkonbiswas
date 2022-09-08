@@ -4,6 +4,8 @@
 
 <p align='center'><strong> #### Web & App both design and development.</strong> </p>
 
+<p align="left"> <img width="40" src="https://komarev.com/ghpvc/?username=kongkonbiswas&label=Profile%20views&color=0e75b6&style=flat" alt="kongkonbiswas" /> </p>
+
 ## 🙋‍♂️ About Me
 
 I'm Kongkon Biswas from Bangladesh and I do design and development. I'm passionate about Full Stack Web and I am interested in developing new things which excite me a lot like React, React native as well as other work. I love exploring new technologies and being a practitioner, I like to stay on top of the latest trends :) I am a friendly guy, you can connect with me on social media. 
@@ -22,7 +24,7 @@ Skills:  React / ReactNative / Js / Typescript / HTML / CSS
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kongkonbiswas&label=Profile%20views&color=0e75b6&style=flat" alt="kongkonbiswas" /> </p>
+
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
