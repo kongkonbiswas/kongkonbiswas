@@ -6,7 +6,7 @@
 
 I'm a passionate Full Stack Web and I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends :)
 
-<!-- <img align="right" src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/Overview.gif"  width="500"> -->
+<img align="right" src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/Overview.gif"  width="500">
 
 _Hello there this is **Kongkon Biswas**. A **Full Stack Web Developer**. I love to code in JavaScript (Currently an intermediate in JS ). I am a friendly guy you can connect with me on social media, I would love to have you in my life._  
 <p align='center'>
