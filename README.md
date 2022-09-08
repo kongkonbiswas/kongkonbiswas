@@ -2,7 +2,7 @@
 
 <h1 align="center"><a href="#"><img width="200" height="200" src="https://i.imgur.com/799y5A3.png"/></a></h1>
 
-#### Web & App both design and development.
+<p align='center'><strong> #### Web & App both design and development.</strong> </p>
 
 ## 🙋‍♂️ About Me
 
@@ -18,7 +18,7 @@ Skills:  React / ReactNative / Js / Typescript / HTML / CSS
 - 📫 How to reach me: kongkonbiswas3241@gmail.com 
 - 😄 Pronouns: He / Him 
 - ⚡ Fun fact: I can send you free cookies😄  
-<p align='center'>
+
 
 
 
