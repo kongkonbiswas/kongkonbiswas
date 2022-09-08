@@ -6,9 +6,18 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a passionate Full Stack Web and I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends :)
+I'm Kongkon Biswas from Bangladesh and I do design and development. I'm passionate about Full Stack Web and I am interested in developing new things which excite me a lot like React, React native as well as other work. I love exploring new technologies and being a practitioner, I like to stay on top of the latest trends :) I am a friendly guy, you can connect with me on social media. 
 
-_Hello there this is **Kongkon Biswas**. A **Full Stack Web Developer**. I love to code in JavaScript (Currently an intermediate in JS ). I am a friendly guy you can connect with me on social media, I would love to have you in my life._  
+Skills:  React / ReactNative / Js / Typescript / HTML / CSS
+
+- 🔭 I’m currently working on My own project 
+- 🌱 I’m currently learning Typescript, Expo CLI, 
+- 👯 I’m looking to collaborate on React, Bootstrap, Tailwind 
+- 🤔 I’m looking for help with Expo app, Java, Python 
+- 💬 Ask me about React, Javascript, HTML, CSS 
+- 📫 How to reach me: kongkonbiswas3241@gmail.com 
+- 😄 Pronouns: He / Him 
+- ⚡ Fun fact: I can send you free cookies😄  
 <p align='center'>
 
 
