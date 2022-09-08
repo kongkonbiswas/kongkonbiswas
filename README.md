@@ -12,14 +12,14 @@ I'm Kongkon Biswas from Bangladesh and I do design and development. I'm passiona
 
 Skills:  React / ReactNative / Js / Typescript / HTML / CSS
 
-- 🔭 I’m currently working on My own project 
-- 🌱 I’m currently learning Typescript, Expo CLI, 
-- 👯 I’m looking to collaborate on React, Bootstrap, Tailwind 
-- 🤔 I’m looking for help with Expo app, Java, Python 
-- 💬 Ask me about React, Javascript, HTML, CSS 
+- 🔭 I’m currently working on My own project. 
+- 🌱 I’m currently learning Typescript, Expo CLI. 
+- 👯 I’m looking to collaborate on React, Bootstrap, Tailwind. 
+- 🤔 I’m looking for help with Expo app, Java, Python. 
+- 💬 Ask me about React, Javascript, HTML, CSS. 
 - 📫 How to reach me: kongkonbiswas3241@gmail.com 
-- 😄 Pronouns: He / Him 
-- ⚡ Fun fact: I can send you free cookies😄  
+- 😄 Pronouns: He / Him.
+- ⚡ Fun fact: I can send you free cookies😄. 
 
 
 
@@ -77,11 +77,11 @@ Skills:  React / ReactNative / Js / Typescript / HTML / CSS
 <br/>
 <br/>
 
-
+![GitHub metrics](https://metrics.lecoq.io/kongkonbiswas)  
 
 [![Kongkon's github activity graph](https://activity-graph.herokuapp.com/graph?username=kongkonbiswas&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![GitHub metrics](https://metrics.lecoq.io/kongkonbiswas)  
+
 
 ////////////////////////////////////
 
