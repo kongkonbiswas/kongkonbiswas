@@ -4,7 +4,7 @@
 
 <p align='center'><strong> #### Web & App both design and development.</strong> </p>
 
-<p align="left"> <img width="40" src="https://komarev.com/ghpvc/?username=kongkonbiswas&label=Profile%20views&color=0e75b6&style=flat" alt="kongkonbiswas" /> </p>
+<p align="left"> <img width="400" src="https://komarev.com/ghpvc/?username=kongkonbiswas&label=Profile%20views&color=0e75b6&style=flat" alt="kongkonbiswas" /> </p>
 
 ## 🙋‍♂️ About Me
 
