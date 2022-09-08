@@ -15,6 +15,9 @@ _Hello there this is **Kongkon Biswas**. A **Full Stack Web Developer**. I love 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kongkonbiswas&label=Profile%20views&color=0e75b6&style=flat" alt="kongkonbiswas" /> </p>
 
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kongkonbiswas" alt="kongkonbiswas" /></a> </p>
 
 
@@ -68,5 +71,3 @@ _Hello there this is **Kongkon Biswas**. A **Full Stack Web Developer**. I love 
 [![Kongkon's github activity graph](https://activity-graph.herokuapp.com/graph?username=kongkonbiswas&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![GitHub metrics](https://metrics.lecoq.io/kongkonbiswas)  
-
-![Profile views](https://gpvc.arturio.dev/kongkonbiswas)  
