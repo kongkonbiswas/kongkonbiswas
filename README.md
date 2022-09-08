@@ -21,8 +21,10 @@ Skills:  React / ReactNative / Js / Typescript / HTML / CSS
 - 😄 Pronouns: He / Him.
 - ⚡ Fun fact: I can send you free cookies😄. 
 
+📊 &nbsp;**This week I spent my time on**
+
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=kongkonbiswas&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-<details>
+
 
 
 
@@ -83,7 +85,7 @@ Skills:  React / ReactNative / Js / Typescript / HTML / CSS
 [![Kongkon's github activity graph](https://activity-graph.herokuapp.com/graph?username=kongkonbiswas&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-
+<!-- 
 ////////////////////////////////////
 
 ### Hi there 👋, I am Kongkon Biswas.
@@ -121,3 +123,4 @@ Skills:  React / ReactNative / Js / Typescript / HTML / CSS
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kongkonbiswas)  
 
 ![Profile views](https://gpvc.arturio.dev/kongkonbiswas)  
+ -->
