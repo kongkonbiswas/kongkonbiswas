@@ -6,8 +6,6 @@
 
 I'm a passionate Full Stack Web and I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends :)
 
-<img align="right" src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/Overview.gif"  width="500">
-
 _Hello there this is **Kongkon Biswas**. A **Full Stack Web Developer**. I love to code in JavaScript (Currently an intermediate in JS ). I am a friendly guy you can connect with me on social media, I would love to have you in my life._  
 <p align='center'>
 
@@ -71,3 +69,41 @@ _Hello there this is **Kongkon Biswas**. A **Full Stack Web Developer**. I love 
 [![Kongkon's github activity graph](https://activity-graph.herokuapp.com/graph?username=kongkonbiswas&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![GitHub metrics](https://metrics.lecoq.io/kongkonbiswas)  
+
+////////////////////////////////////
+
+### Hi there 👋, I am Kongkon Biswas.
+#### Web & App both design and development.
+![Web & App both design and development.](https://i.imgur.com/799y5A3.png)
+
+I'm Kongkon Biswas from Bangladesh and I do design and development. I'm passionate about Full Stack Web and I am interested in developing new things which excite me a lot like React, React native as well as other work. I love exploring new technologies and being a practitioner, I like to stay on top of the latest trends :) I am a friendly guy, you can connect with me on social media. 
+
+Skills:  React / ReactNative / Js / Typescript / HTML / CSS
+
+- 🔭 I’m currently working on My own project 
+- 🌱 I’m currently learning Typescript, Expo CLI, 
+- 👯 I’m looking to collaborate on React, Bootstrap, Tailwind 
+- 🤔 I’m looking for help with Expo app, Java, Python 
+- 💬 Ask me about React, Javascript, HTML, CSS 
+- 📫 How to reach me: kongkonbiswas3241@gmail.com 
+- 😄 Pronouns: He / Him 
+- ⚡ Fun fact: I can send you free cookies😄 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kongkonbiswas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/kongkonbiswas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kongkonbiswas/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/kongkonbiswas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kongkonbiswas/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/kongkonbiswas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/18345157)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/A9abWaD4xwsxqzIvFBvG5A)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://my-portfolio-kongkon.netlify.app/)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kongkonbiswas)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kongkonbiswas)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kongkonbiswas&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kongkonbiswas)  
+
+![GitHub metrics](https://metrics.lecoq.io/kongkonbiswas)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kongkonbiswas)  
+
+![Profile views](https://gpvc.arturio.dev/kongkonbiswas)  
