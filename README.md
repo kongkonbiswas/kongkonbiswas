@@ -57,11 +57,12 @@ _Hello there this is **Kongkon Biswas**. A **Full Stack Web Developer**. I love 
 <br/>
 
 
-[![Kongkon's github activity graph](https://activity-graph.herokuapp.com/graph?username=kongkonbiswas&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<br/>
-<br/>
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kongkonbiswas&" alt="kongkonbiswas" /></p>
+
+
+<br/>
+<br/>
+
+
+
+[![Kongkon's github activity graph](https://activity-graph.herokuapp.com/graph?username=kongkonbiswas&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
