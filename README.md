@@ -21,7 +21,7 @@ Skills:  React / ReactNative / Js / Typescript / HTML / CSS
 - 😄 Pronouns: He / Him.
 - ⚡ Fun fact: I can send you free cookies😄. 
 
-📊 &nbsp;**This week I spent my time on**
+📊 :stopwatch:	 &nbsp;**This week I spent my time on**
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kongkonbiswas)](https://github.com/anuraghazra/github-readme-stats)
 
