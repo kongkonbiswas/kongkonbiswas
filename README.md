@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm Kongkon Biswas from Bangladesh :bangladesh:	 and I do design and development. I'm passionate about Full Stack Web and I am interested in developing new things which excite me a lot like React, React native as well as other work. I love exploring new technologies and being a practitioner, I like to stay on top of the latest trends :) I am a friendly guy, you can connect with me on social media. 
+I'm Kongkon Biswas from Bangladesh :bangladesh:	 and I do design and development. I'm passionate about Full Stack Web and I am interested in developing new things which excite me a lot like React, React native as well as other work. I love exploring new technologies and being a practitioner, I like to stay on top of the latest trends :)
 
 Skills:  React / ReactNative / Js / Typescript / HTML / CSS
 
