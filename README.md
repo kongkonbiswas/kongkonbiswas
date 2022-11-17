@@ -6,7 +6,7 @@
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/kongkon.biswas.35)
 <p align="left"> <img width="200" src="https://komarev.com/ghpvc/?username=kongkonbiswas&label=Profile%20views&color=0e75b6&style=flat" alt="kongkonbiswas" /> </p>
 <p align="left"> <a href="https://twitter.com/kongkonbiswas" target="blank"><img src="https://img.shields.io/twitter/follow/kongkonbiswas?logo=twitter&style=for-the-badge" alt="kongkonbiswas" /></a> </p>
-<h2><a href="https://drive.google.com/file/d/1eaqZsv43ZDcY44KKU3pgeKyVA09FX1Rc/view?usp=share_link" className="btn btn-outline-info">Watch My Resume</a></h2>
+<h2><a href="https://drive.google.com/file/d/1eaqZsv43ZDcY44KKU3pgeKyVA09FX1Rc/view?usp=share_link" className="btn btn-outline-info">Watch/Download My Resume</a></h2>
 
 ## 🙋‍♂️ About Me
 
