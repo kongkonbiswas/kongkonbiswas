@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm Kongkon Biswas from Bangladesh 🇧🇩 . I can do design and development. I'm passionate about Full Stack Web and I am interested in developing new things which excite me a lot. I love exploring new technologies being a practitioner and I like to stay on top of the latest trends :)
+I'm Kongkon Biswas from Bangladesh 🇧🇩 . I can do design and development. I'm passionate about Full Stack Web and interested in developing new things, which greatly excites me. I love exploring new technologies being a practitioner, and I like to stay on top of the latest trends :)
 
 Skills:  React / ReactNative / Js / Typescript / HTML / CSS
 
@@ -44,12 +44,12 @@ Skills:  React / ReactNative / Js / Typescript / HTML / CSS
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p>
-  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
